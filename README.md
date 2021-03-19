@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hohooodo)](https://solved.ac/hohooodo)
+
 <!---
 2heeesss/2heeesss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
