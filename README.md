@@ -1,12 +1,8 @@
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=gradient&animation=fadeIn&text=Hi%20I'm%20Lee%20HuiSeung&textColor=white)
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=gradient&animation=fadeIn&text=Hi👋,%20I'm%20Lee%20HS&fontColor=#ffffff)
 
-- 👋 Hi, I’m @2heeesss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
+<p align="center">
+🌱 I'm interesting in FE and, I want to be well writing developer. 🌱
+</p></br>
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3> </br>
@@ -20,9 +16,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-5ed4f3?style=flat-square&logo=react&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Flask-0c7560?style=flat-square&logo=flask&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white"/></a> &nbsp
 </p>
 
-</br></br>
+</br>
 <h3 align="center">•••</h3> </br>
 
 <p align="center">
