@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=gradient&animation=fadeIn&text=Hi%20I'm%20Lee%20HuiSeung&textColor=white)
 
 - 👋 Hi, I’m @2heeesss
 - 👀 I’m interested in ...
@@ -7,13 +8,8 @@
 
 
 
-<h3 align = center><b>Problem Solving tier</b> </br> </h3>
-<p align="center">
-
-</p>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3> </br>
-
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
@@ -26,8 +22,8 @@
   <img src="https://img.shields.io/badge/Flask-0c7560?style=flat-square&logo=flask&logoColor=white"/></a> &nbsp
 </p>
 
-
-<h3 align="center">•••</h3>
+</br></br>
+<h3 align="center">•••</h3> </br>
 
 <p align="center">
   <a href="https://velog.io/@hohooodo"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hohooodo"/></a>&nbsp
