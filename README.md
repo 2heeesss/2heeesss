@@ -4,8 +4,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 
+
+
 <div align=center>
+  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hohooodo)](https://solved.ac/hohooodo)
 
 
