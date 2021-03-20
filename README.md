@@ -9,8 +9,7 @@
 
 <h3 align = center><b>Problem Solving tier</b> </br> </h3>
 <p align="center">
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hohooodo)](https://solved.ac/hohooodo)
+
 </p>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3> </br>
@@ -28,13 +27,15 @@
 </p>
 
 
-<h3 align="center"><b>🛠 About me 🛠</b></h3> </br>
-
-
 <h3 align="center">•••</h3>
 
 <p align="center">
   <a href="https://velog.io/@hohooodo"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hohooodo"/></a>&nbsp
   <a href="mailto:hohooodo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hohooodo@gmail.com"/></a>
-  
 </p>
+  
+  <div align="center">   
+  
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hohooodo)](https://solved.ac/hohooodo)    
+  
+</div>
