@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=gradient&animation=fadeIn&text=Hi👋,%20I'm%20Lee%20HS&fontColor=#ffffff)
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=timeGradient&animation=fadeIn&text=Hi👋,%20I'm%20Lee%20HS&fontColor=#ffffff)
 
-<p align="center">
+<h3 align="center">
 🌱 I'm interesting in FE and, I want to be well writing developer. 🌱
-</p></br>
+</h3></br>
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3> </br>
@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white"/></a> &nbsp
 </p>
 
-</br>
 <h3 align="center">•••</h3> </br>
 
 <p align="center">
@@ -32,3 +31,5 @@
   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hohooodo)](https://solved.ac/hohooodo)    
   
 </div>
+
+![footer](https://capsule-render.vercel.app/api?height=150&type=waving&color=timeGradient&section=footer)
