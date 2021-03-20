@@ -26,12 +26,11 @@
   <img src="https://img.shields.io/badge/Flask-0c7560?style=flat-square&logo=flask&logoColor=white"/></a> &nbsp
 </p>
 
-<p align="center">
-  <a href="https://velog.io/@hohooodo" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hohooodo@gmail.com)](mailto:hohooodo@gmail.com)
 
-</p>
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3> </br>
+
+  <a href="https://velog.io/@hohooodo" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hohooodo@gmail.com)](mailto:hohooodo@gmail.com)
 
 <!---
 2heeesss/2heeesss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
