@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=timeGradient&animation=fadeIn&text=Hi👋,%20I'm%20HS%20LEE&fontColor=#ffffff)
 
 <h3 align="center">
-🌱 I'm interesting in FE and, I want to be well writing developer. 🌱
+🌱 I'm interested in FE and, I want to be well writing developer. 🌱
 </h3></br>
 
 
