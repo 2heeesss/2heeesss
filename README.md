@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/Flask-0c7560?style=flat-square&logo=flask&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white"/></a> &nbsp
 </p>
-
-<h3 align="center">•••</h3> </br> </br>
+</br>
+<h3 align="center">•••</h3> </br> 
 
 <p align="center">
   <a href="https://velog.io/@hohooodo"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hohooodo"/></a>&nbsp
