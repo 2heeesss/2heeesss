@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white"/></a> &nbsp
 </p>
 
-<h3 align="center">•••</h3> </br>
+<h3 align="center">•••</h3> </br> </br>
 
 <p align="center">
   <a href="https://velog.io/@hohooodo"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hohooodo"/></a>&nbsp
