@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Flask-0c7560?style=flat-square&logo=flask&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white"/></a> &nbsp
 </p>
-</br>
 <h3 align="center">•••</h3> </br> 
 
 <p align="center">
