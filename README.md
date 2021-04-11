@@ -27,7 +27,7 @@
   
   <div align="center">   
   
-  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hohooodo)](https://solved.ac/hohooodo)    
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hohooodo)](https://solved.ac/hohooodo/)
   
 </div>
 
