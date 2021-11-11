@@ -11,7 +11,7 @@
 <ul>
   <li>🖥 FE에 관심이 많아 JS를 공부하고 있습니다.</li>
   <br>
-  <li>🔥 의식적인 성장을 위해 <a href="https://unique-botany-08d.notion.site/a63a18273c98462e8785008ac0eaeebf">5F 회고</a>를 진행하고 있습니다.</li>
+  <li>🔥 의식적인 성장을 위해 <a href="https://unique-botany-08d.notion.site/a63a18273c98462e8785008ac0eaeebf" target="_self">5F 회고</a>를 진행하고 있습니다.</li>
   <br>
   <li>🖋 글을 잘쓰는 개발자가 되고싶습니다.</li>
   <br>
