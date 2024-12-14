@@ -1,5 +1,5 @@
 <h1 align= "center">
-  안녕하세요😄, 이희승입니다.
+  안녕하세요
 </h1>
 
 <p align="center">
@@ -7,11 +7,3 @@
   <a href="mailto:hohooodo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hohooodo@gmail.com"/></a>
 </p>
 
-
-<ul>
-  <li>🖥 FE에 관심이 많아 JS, React를 공부하고 있습니다.</li>
-  <br>
-  <li>🖋 글을 잘쓰는 개발자가 되고싶습니다.</li>
-  <br>
-  <li>📚 독서, 글쓰기, 콜라를 좋아합니다.</li>
-</ul>
